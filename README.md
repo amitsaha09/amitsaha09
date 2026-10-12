@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Amit Saha 👋
 
-<!--
-**amitsaha09/amitsaha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer in the making — I learn agentic AI by building it, one project at a time.
 
-Here are some ideas to get you started:
+## 🔥 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[VoxNote AI](https://github.com/amitsaha09/voxnote-ai)** — local AI session companion: video intelligence, 3-judge interview evaluator, meeting capture, RAG chat *(FastAPI + Whisper + GPT)*
+- **[RAG Document Reader](https://github.com/amitsaha09/Rag-Project-Document-Reader)** — upload a PDF, ask questions; MMR retrieval with sourced answers *(LangChain + ChromaDB + Streamlit)*
+- **[ResearchMind](https://github.com/amitsaha09/Multi-Agent-Research-Helper)** — 4-stage multi-agent research assistant: search → read → write → critique, with LLM-as-judge scoring
+
+## 🛠️ Stack
+
+Python · LangChain · FastAPI · OpenAI · Google Gemini · Whisper · ChromaDB · Streamlit · Tavily · Pydantic
+
+## 🌱 Currently learning
+
+Agentic AI — tool-calling agents, multi-agent systems, RAG
+
+## 📬 Reach me
+
+- amitsaha@umich.edu
