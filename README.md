@@ -14,7 +14,7 @@ I learn agentic AI by shipping it — LLM apps, RAG pipelines, and multi-agent w
 
 ## 💼 Background
 
-- **Programmer, Backend & Microservices** @ Synthesis IT PLC (2022–2024) — Spring Boot microservices with Kafka and Redis; cut processing time ~35%; OAuth 2.0 / JWT security
+- **Programmer, Backend & Microservices** @ Synesis IT PLC (2022–2024) — Spring Boot microservices with Kafka and Redis; cut processing time ~35%; OAuth 2.0 / JWT security
 - **Backend Development Intern** @ Agile Tech Lab (2025) — Django + PostgreSQL optimization for SeekJobs.ai
 
 ## 🛠️ Stack
