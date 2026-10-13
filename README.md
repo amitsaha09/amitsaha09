@@ -1,5 +1,7 @@
 # Hi, I'm Amit Saha 👋
 
+🌐 **[Portfolio](https://amit-saha-portfolio.onrender.com/)**
+
 📍 Michigan, USA · **M.S. Computer & Information Science, UM-Dearborn** · 2+ years backend engineering (Java, Spring Boot, microservices) → now building applied AI systems.
 
 I learn agentic AI by shipping it — LLM apps, RAG pipelines, and multi-agent workflows.
@@ -26,5 +28,6 @@ Agentic AI — tool-calling agents, multi-agent systems, RAG
 
 ## 📬 Reach me
 
+- 🌐 [amit-saha-portfolio.onrender.com](https://amit-saha-portfolio.onrender.com/)
 - amitsaha@umich.edu
 - [linkedin.com/in/amitsaha09](https://linkedin.com/in/amitsaha09)
